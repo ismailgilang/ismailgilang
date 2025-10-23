@@ -43,9 +43,6 @@ I love turning ideas into digital experiences that are both functional and beaut
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ismailgilang&show_icons=true&theme=tokyonight&hide_border=true" alt="Gilang's GitHub stats" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailgilang&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgilang&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
